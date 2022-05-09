@@ -2,12 +2,14 @@
 
 ## <3
 
-- 👋 Olá, sou @konakiXp
-- :+1: legal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 こんにちは私は @konakiXp
+- :+1: desenhar
+- 👀 I’m interested in animes, mangas
+- 🌱 arvore
+- 💞️ malungos
+- 📫 ...
+
+
 
 <!---
 konakiXp/konakiXp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
